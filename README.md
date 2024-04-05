@@ -19,6 +19,3 @@ The dataset used in this project contains historical data on crop production in 
 - Matplotlib
 - Jupyter Notebook
 
-## Installation
-To run the notebook locally, ensure that you have Python and jupyter notebook installed on your system along with the required libraries listed in the `requirements.txt` file. You can install the dependencies using the following command:
-
